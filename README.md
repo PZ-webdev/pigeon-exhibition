@@ -16,10 +16,10 @@
                    Full support of the admin panel (including gallery, entries),
                    TOP 3 Pigeons on the main page of a given category.
                    E-mail notifications after user registration or after sending a message to the site administrator.
-<p align="center">
-    <img src="https://iv.pl/images/e2d5c43249319b1aa5164a6f21e46d52.png" alt="dodawanie gołębia" border="0">
-</p>
+## View Aplication
 <img src="https://iv.pl/images/7ce10090dbcfedab33044512f9aefa68.png" alt="main page" border="0">
+<img src="https://iv.pl/images/9c67bb46cf74d7cf7026d2462eecf7f0.png" alt="prezentacja gol" border="0">
+<img src="https://iv.pl/images/e2d5c43249319b1aa5164a6f21e46d52.png" alt="dodawanie gołębia" border="0">
 <img src="https://iv.pl/images/b169a5d793e1bcd2bde7bab126f90e3c.png" alt="panel admin" border="0">
 <img src="https://iv.pl/images/b77e8954c6494fd50afe069c08abcaa6.png" alt="panel user" border="0">
-<img src="https://iv.pl/images/9c67bb46cf74d7cf7026d2462eecf7f0.png" alt="prezentacja gol" border="0">
+
